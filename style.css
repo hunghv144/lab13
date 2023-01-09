@@ -1,0 +1,5 @@
+.bg-img1 {
+  background-image: url(image/img1.jpg);
+  background-size: cover;
+  background-color: #000;
+}
